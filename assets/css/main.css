@@ -3071,21 +3071,21 @@ input, select, textarea {
 				box-shadow: 0 4px 0 0 #37c0fb;
 			}
 
-				#titleBar .title {
+				/*#titleBar .title {
 					display: block;
 					position: relative;
 					font-weight: 600;
 					text-align: center;
 					color: #fff;
 					z-index: 1;
-				}
+				}*/
 
-					#titleBar .title em {
+					/*#titleBar .title em {
 						font-style: normal;
 						font-weight: 300;
 					}
-
-				#titleBar .toggle {
+*/
+				/*#titleBar .toggle {
 					text-decoration: none;
 					border: 0;
 					height: 60px;
@@ -3095,7 +3095,7 @@ input, select, textarea {
 					width: 80px;
 					z-index: 2;
 				}
-
+*/
 					#titleBar .toggle:before {
 						-moz-osx-font-smoothing: grayscale;
 						-webkit-font-smoothing: antialiased;
