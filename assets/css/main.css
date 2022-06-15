@@ -1992,6 +1992,7 @@ input, select, textarea {
 
 		footer > :last-child {
 			margin-bottom: 0;
+			text-align: center;
 		}
 
 		footer.major {
