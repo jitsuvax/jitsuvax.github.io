@@ -27,8 +27,13 @@ section, summary, time, mark, audio, video {
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
+header, hgroup, menu, nav, section {
 	display: block;}
+
+footer {
+	display: flex;
+ 	align-items: center; 
+ 	justify-content: center;}
 
 body {
 	line-height: 1;
