@@ -190,7 +190,6 @@ input, select, textarea {
 		margin: 0 auto;
 		max-width: 100%;
 		width: 1400px;
-		 display: flex;
 	}
 
 		@media screen and (max-width: 1680px) {
