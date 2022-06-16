@@ -191,8 +191,6 @@ input, select, textarea {
 		max-width: 100%;
 		width: 1400px;
 		 display: flex;
- 		align-items: center; 
- 		justify-content: center;
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -2792,6 +2790,7 @@ input, select, textarea {
 			}
 
 		#footer .container {
+			text-align: center;
 			margin-bottom: 4em;
 		}
 
