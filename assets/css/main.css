@@ -27,13 +27,8 @@ section, summary, time, mark, audio, video {
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
-header, hgroup, menu, nav, section {
+header, footer, hgroup, menu, nav, section {
 	display: block;}
-
-footer {
-	display: flex;
- 	align-items: center; 
- 	justify-content: center;}
 
 body {
 	line-height: 1;
@@ -2795,7 +2790,6 @@ input, select, textarea {
 
 		#footer .container {
 			margin-bottom: 4em;
-			text-align: center;
 		}
 
 		#footer .icons {
