@@ -2790,6 +2790,7 @@ input, select, textarea {
 
 		#footer .container {
 			margin-bottom: 4em;
+			text-align: center;
 		}
 
 		#footer .icons {
@@ -2894,6 +2895,7 @@ input, select, textarea {
 
 				#footer .container {
 					margin-bottom: 1em;
+					text-align: center;
 				}
 
 	}
@@ -3016,6 +3018,7 @@ input, select, textarea {
 
 				#footer .container {
 					margin-bottom: 4em;
+					text-align: center;
 				}
 
 				#footer form .actions {
@@ -3355,7 +3358,7 @@ input, select, textarea {
 
 			#footer {
 				padding: 2em 20px;
-				text-align: left;
+				text-align: center;
 			}
 
 	}
